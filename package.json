@@ -1,5 +1,6 @@
 {
   "name": "create-lynch-app",
+  "description": "An opinionated Next.js boilerplate",
   "version": "0.1.0",
   "private": true,
   "scripts": {
